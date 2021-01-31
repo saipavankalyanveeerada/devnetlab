@@ -1,1 +1,1 @@
-print('pavan kalyan veerada - vr siddhartha  college\n'*5)
+print('pavan kalyan veerada - vr siddhartha engineering college\n'*5)
